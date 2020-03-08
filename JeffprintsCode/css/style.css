@@ -1,0 +1,276 @@
+@media only screen and (max-width:960px)
+{
+  .container {
+    width: 100%;
+  }
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+  .responsive3 {
+    width: 100%;
+    height: auto;
+  }
+}
+@media only screen and (max-width:640px)
+{
+  .container {
+    width: 100%;
+  }
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+  .responsive3 {
+    width: 100%;
+    height: auto;
+  }
+}
+@media only screen and (max-width:320px)
+{
+  .container {
+    width: 320px;
+  }
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+  .responsive3 {
+    width: 100%;
+    height: auto;
+  }
+}
+body {
+  background-color: #000000;
+}
+body.userProfile {
+  background-color: #FFFFFF;
+}
+.responsive {
+  margin-top: 5rem;
+  width: 100%;
+  height: auto;
+}
+.responsive1 {
+  width: 20px;
+  height: auto;
+  padding: 0;
+  margin-top: -4rem;
+}
+.responsive2 {
+  width: 30px;
+  height: auto;
+  padding: 0;
+  margin-top: -0.009rem;
+}
+.responsive3 {
+  margin-top: 5rem;
+  width: 100%;
+  height: auto;
+}
+.container {
+  width: 100%;
+  margin: 0px auto;
+}
+.mycontainer1 {
+  background-color: #000000;
+}
+.mycontainer2 {
+  margin-top: -2.5rem;
+  border-bottom: 1pt solid black;
+}
+.mycontainer3 {
+  background-color: #000000;
+  margin-top: 12.8rem;
+}
+.mycontainer2a {
+  background-color: #FECD2F;
+}
+.mycontainer4 {
+  background-color: #FFFFFF;
+  border-radius: 30px;
+}
+.mycontainer5 {
+  background-color: #FE5F2F;
+  border-radius: 30px;
+}
+.mycontainer6 {
+  background-color: #FECD2F;
+  border-radius: 30px;
+}
+.mycontainer7 {
+  background-color: #000000;
+  color: #FFFFFF;
+  border-radius: 30px;
+  border-color: #FFFFFF;
+}
+.mycontainer8 {
+  margin-top: -18rem;
+}
+.mycontainer9 {
+  background-color: #FF0000;
+  border-radius: 30px;
+}
+h1.text-center {
+  font-family: Helvetica, Arial, sans-serif;
+  color: #FFFFFF;
+}
+h2.text-center {
+  margin-top: -1.25rem;
+  padding-left: 5.5rem;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #FFFFFF
+}
+h6.text-center a {
+  color: #FFFFFF;
+  font-weight: normal;
+  font-family: Helvetica, Arial, sans-serif;
+}
+h6.text-center a:visited {
+  color: 	#808080;
+  font-weight: normal;
+  font-family: Helvetica, Arial, sans-serif;
+}
+h6.text-center a:hover {
+  background-color: #FECD2F;
+  color: 	#000000;
+  border-color: #FECD2F;
+  font-weight: normal;
+  font-family: Helvetica, Arial, sans-serif;
+}
+h6.myskip a {
+  color: #FFFFFF;
+  font-weight: normal;
+  font-family: Helvetica, Arial, sans-serif;
+}
+h6.myskip a:visited {
+  color: 	#808080;
+  font-weight: normal;
+  font-family: Helvetica, Arial, sans-serif;
+}
+h6.myskip a:hover {
+  background-color: #FECD2F;
+  color: 	#000000;
+  border-color: #FECD2F;
+  font-weight: normal;
+  font-family: Helvetica, Arial, sans-serif;
+}
+h6.selectProfile {
+  color: #000000;
+  font-weight: bold;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 17px;
+}
+h5.Welcome {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  font-weight: normal;
+  color: #000000;
+}
+h5.form {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  font-weight: normal;
+  color: #FFFFFF;
+}
+h6.myprints1 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  color: #FFFFFF;
+  margin-top: -1.25rem;
+}
+h6.text-center.button1 a {
+  background-color: #000000;
+  color: #FFFFFF;
+  border-radius: 0;
+}
+h6.text-center.button1 a:visited {
+  color: 	#808080;
+  background-color: #000000;
+  border-radius: 0;
+}
+h6.text-center.button1 a:hover {
+  background-color: #FECD2F;
+  color: 	#000000;
+  border-color: #FECD2F;
+  border-radius: 0;
+}
+h6.text-center.button2 a {
+  background-color: #FFFFFF;
+  color: #000000;
+  border-radius: 0;
+}
+h6.text-center.button2 a:visited {
+  color: 	#808080;
+  background-color: #FFFFFF;
+  border-radius: 0;
+}
+h6.text-center.button2 a:hover {
+  background-color: #FECD2F;
+  color: 	#000000;
+  border-color: #FECD2F;
+  border-radius: 0;
+}
+.button1 {
+  font-weight: bold;
+  font-family: Helvetica, Arial, sans-serif;
+  border-radius: 0;
+}
+.button2 {
+  font-weight: bold;
+  font-family: Helvetica, Arial, sans-serif;
+  border-radius: 0;
+}
+.btn-light {
+  border-radius: 0;
+}
+.lock {
+  margin-top: -5.5rem;
+  width: 50px;
+  padding-left: 1rem;
+}
+h6.text-left.termcondition {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size: 12px;
+  color: #7C7C7C;
+  margin-top: -1.2rem;
+}
+h6.text-left.Phone {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 17px;
+  color: #000000;
+}
+.form-control {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  background-color: #000000;
+  color: #FFFFFF;
+  border-radius: 3rem;;
+}
+#inputGroupPrepend3 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  background-color: #000000;
+  color: #D5D5D5;
+}
+#validationCustom01 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  background-color: #000000;
+  color: #D5D5D5;
+}
+#validationCustom02 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  background-color: #000000;
+  color: #D5D5D5;
+}
+.navbar {
+  background-color: #000000;
+}
+hr {
+ background-color: #000000;
+}
